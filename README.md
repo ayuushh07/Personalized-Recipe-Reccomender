@@ -66,26 +66,6 @@ This will start the React app on `http://localhost:3000`.
 ## License:
 MIT License
 
-personalized-recipe-recommender/
-│
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── models.py
-│   ├── recipe_scraper.py
-│   └── recommendation_engine.py
-│
-└── frontend/
-    ├── public/
-    │   └── index.html
-    ├── src/
-    │   ├── App.js
-    │   ├── components/
-    │   │   └── RecipeList.js
-    │   ├── styles/
-    │   │   └── App.css
-    │   └── index.js
-    └── package.json
 
 
 
